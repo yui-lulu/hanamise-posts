@@ -17,7 +17,9 @@ Le dépôt est public : Metricool récupère les images via leur lien
 - Horaires : **du mardi au samedi, 17h – 2h**. Fermé dimanche et lundi.
 - Ouverture (fictive) : vendredi 23 octobre 2026. Saison 01.
 - Mot de passe à la porte : **sakura** (clin d'œil aux speakeasy de la Prohibition).
-  Il peut changer chaque mois, annoncé dans un post.
+  Il peut changer chaque mois, annoncé dans un post. Ce post sort tôt dans la journée
+  (vers 12h), jamais à 18h : les clients doivent le connaître bien avant l'ouverture.
+  Novembre 2026 : à annoncer le mardi 3 novembre.
 - Carte : artefact « Carte Hanamisé » https://claude.ai/code/artifact/ccb3eb58-634e-4560-bd9f-31f95a2b842e
   (6 chapitres : L'art du short drink, La sagesse du long drink, Creation Lab &
   Signatures, L'essence sans alcool, Infusions & softs artisanaux, Cuvées &
