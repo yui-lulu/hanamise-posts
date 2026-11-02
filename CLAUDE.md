@@ -36,8 +36,8 @@ Le dépôt est public : Metricool récupère les images via leur lien
 Chaque mois, un **cocktail du mois** (hors carte, vendu au bar tout le mois) a son post.
 Il sort la semaine du premier mardi du mois, en plus du post du mot de passe (par
 défaut le jeudi à 18h). Si le cocktail du mois n'a pas encore été posté pendant le
-mois en cours, le poster dans la semaine qui suit (c'est le cas de novembre 2026 :
-Kōyō n'a pas encore été posté). Le visuel montre le cocktail (verre, couleur, garniture)
+mois en cours, le poster dans la semaine qui suit. Novembre 2026 : Kōyō est programmé
+le mercredi 4 novembre à 18h (semaine 4, N°11) : ne pas le refaire. Le visuel montre le cocktail (verre, couleur, garniture)
 et sa recette ; la légende suit le modèle : « Le cocktail de <mois> : <Nom> <kanji>,
 « <sens> ». <ingrédients>. <prix>. » puis la mention loi Évin et les hashtags
 (ajouter #CocktailDuMois). Les prix et recettes de ce tableau sont les vrais : ne pas
