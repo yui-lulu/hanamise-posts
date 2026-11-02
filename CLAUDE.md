@@ -16,15 +16,49 @@ Le dépôt est public : Metricool récupère les images via leur lien
   (le vrai bar où travaille Rayane est au n°2 : ne jamais l'indiquer).
 - Horaires : **du mardi au samedi, 17h – 2h**. Fermé dimanche et lundi.
 - Ouverture (fictive) : vendredi 23 octobre 2026. Saison 01.
-- Mot de passe à la porte : **sakura** (clin d'œil aux speakeasy de la Prohibition).
-  Il peut changer chaque mois, annoncé dans un post. Ce post sort tôt dans la journée
-  (vers 12h), jamais à 18h : les clients doivent le connaître bien avant l'ouverture.
+- **Mot de passe du mois** (depuis novembre 2026) : la porte est **ouverte à tous**, le
+  mot de passe ne sert **pas** à entrer (on ne refuse jamais un client, ni un touriste).
+  Le client qui le donne au comptoir reçoit une attention de la maison (un petit shot,
+  avec ou sans alcool). Dans les posts, ne jamais écrire qu'il faut le mot de passe pour
+  entrer, ni « shot offert » (loi Évin) : écrire « Donnez-le au comptoir : une attention
+  de la maison vous attend. » Le mot de passe change chaque mois, annoncé dans un post qui
+  sort le premier mardi du mois, tôt (vers 12h), jamais à 18h.
   Octobre 2026 : sakura. Novembre 2026 : **momiji** (紅葉), annoncé le mardi 3 novembre.
+  Ensuite : voir le tableau « Cocktail du mois » ci-dessous.
 - Carte : artefact « Carte Hanamisé » https://claude.ai/code/artifact/ccb3eb58-634e-4560-bd9f-31f95a2b842e
   (6 chapitres : L'art du short drink, La sagesse du long drink, Creation Lab &
   Signatures, L'essence sans alcool, Infusions & softs artisanaux, Cuvées &
   fermentations). Pour parler d'un cocktail, prendre ses vrais nom et ingrédients
   dans la carte, ne rien inventer de chiffré (prix, degrés) qui n'y est pas.
+
+## Cocktail du mois
+
+Chaque mois, un **cocktail du mois** (hors carte, vendu au bar tout le mois) a son post.
+Il sort la semaine du premier mardi du mois, en plus du post du mot de passe (par
+défaut le jeudi à 18h). Si le cocktail du mois n'a pas encore été posté pendant le
+mois en cours, le poster dans la semaine qui suit (c'est le cas de novembre 2026 :
+Kōyō n'a pas encore été posté). Le visuel montre le cocktail (verre, couleur, garniture)
+et sa recette ; la légende suit le modèle : « Le cocktail de <mois> : <Nom> <kanji>,
+« <sens> ». <ingrédients>. <prix>. » puis la mention loi Évin et les hashtags
+(ajouter #CocktailDuMois). Les prix et recettes de ce tableau sont les vrais : ne pas
+en inventer d'autres.
+
+| Mois | Cocktail | Sens / thème | Recette (verre, garniture) | Prix | Mot de passe |
+| --- | --- | --- | --- | --- | --- |
+| Janvier | Toso 屠蘇 | le saké du Nouvel An (Shōgatsu), servi chaud | 3 cl cognac, 3 cl saké junmai, 15 g yuja-cha, 8 cl d'infusion chaude gingembre-citronnelle (tasse en verre, zeste de citron) | 13 € | omedetou |
+| Février | Koi 恋 | l'amour | 4 cl vodka vanille, 1,5 cl Cointreau, 2 cl purée de framboise, 1,5 cl citron vert (coupe, framboise) | 13 € | kokoro |
+| Mars | Momo 桃 | la pêche (Hinamatsuri) | 2 cl purée de pêche blanche, 2 cl saké junmai, 1 cl sirop de fleur de cerisier, 8 cl prosecco (flûte) | 12 € | hina |
+| Avril | Yozakura 夜桜 | les cerisiers la nuit (Hanami) | 4 cl gin, 2 cl purée de litchi, 1,5 cl sirop de fleur de cerisier, 1,5 cl citron, 6 cl eau gazeuse (highball, fleur de sakura salée) | 13 € | sakura |
+| Mai | Satsuki 皐月 | le cinquième mois, le thé nouveau | 4 cl rhum, 1 g matcha, 2 cl citron vert, 2 cl sirop de sucre, 8 feuilles de menthe, 6 cl eau gazeuse (highball, menthe) | 12 € | matcha |
+| Juin | Ajisai 紫陽花 | l'hortensia, la saison des pluies | 4 cl gin à la fleur de pois papillon, 1,5 cl citron, 1 cl sirop de citronnelle, 10 cl tonic ; passe du bleu au violet (verre ballon) | 12 € | ame |
+| Juillet | Tanabata 七夕 | la fête des étoiles | 4 cl gin, 1,5 cl citron vert, 0,5 cl purée de yuzu, servi avec une Ramune (highball, zeste en étoile) | 13 € | hoshi |
+| Août | Kakigōri かき氷 | la glace pilée, les fêtes d'été | 4 cl rhum, 3 cl purée de mangue, 1,5 cl citron vert, 1 cl sirop de sucre, nappé de sirop de fleur de cerisier (glace pilée, coupelle) | 12 € | natsu |
+| Septembre | Tsukimi 月見 | admirer la lune | 3 cl whisky japonais Toki, 2 cl citron, 1,5 cl sirop d'érable, 2 cl aquafaba, 1 trait d'Angostura (coupe, lune d'Angostura sur la mousse) | 14 € | tsuki |
+| Octobre | Yōkai 妖怪 | les esprits (Nuit des Yōkai) | 4 cl rhum, 2 cl crème de mûre, 1,5 cl citron vert, 10 cl ginger beer (highball, mûres) | 13 € | obake |
+| Novembre | Kōyō 紅葉 | les feuilles rouges, le Gaillac primeur | 4 cl bourbon, 2 cl citron, 1,5 cl sirop d'érable, 2 cl de Gaillac rouge en couche (old fashioned) | 13 € | momiji |
+| Décembre | Shiwasu 師走 | les fêtes de fin d'année | 1,5 cl cognac, 1 cl liqueur de yuzu, 1 trait d'Angostura, 8 cl méthode gaillacoise (flûte, zeste d'orange) | 14 € | fuyu |
+
+Exception : octobre 2026 avait sakura comme mot de passe (ouverture).
 
 ## Identité visuelle des posts (format 1080 × 1350)
 
